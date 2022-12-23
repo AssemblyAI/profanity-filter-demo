@@ -5,7 +5,7 @@ This is an example of how you can use AssemblyAI's [Profanity Filter](https://ww
 
 ## Quick Setup
 
-* Download project files by running `git clone https://github.com/AssemblyAI/speaker-diarization.git`
+* Download project files by running `git clone https://github.com/AssemblyAI/profanity-filter-demo.git`
 * Navigate to the project folder
 * Create a new [virtual environment](https://docs.python.org/3/library/venv.html)
 * Activate the new virtual environment and run `pip install -r requirements.txt` to install project dependencies
