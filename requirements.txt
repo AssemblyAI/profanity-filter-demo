@@ -1,0 +1,5 @@
+configure==0.5
+pydub==0.25.1
+requests==2.28.1
+streamlit==1.15.2
+youtube_dl==2021.12.17
