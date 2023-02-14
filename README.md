@@ -3,6 +3,8 @@ How to Detect and Censor Profanities
 
 This is an example of how you can use AssemblyAI's [Profanity Filter](https://www.assemblyai.com/docs/core-transcription#profanity-filtering) feature to automatically detect profanities and replace them in your audio file. 
 
+To try it out quickly, use this [Streamlit App](https://m-ods-profanity-filter-demo-profanity-filter-g03xap.streamlit.app/). You'll need an AssemblyAI API key [which you can sign up for here!](https://www.assemblyai.com/dashboard/signup)
+
 ## Quick Setup
 
 * Download project files by running `git clone https://github.com/AssemblyAI/profanity-filter-demo.git`
